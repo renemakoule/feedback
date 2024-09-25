@@ -46,7 +46,7 @@ export default function FeedbackCard() {
       className="w-full"
       color={theme.theme === "dark" ? "red" : "black"}
     >
-      <div className="absolute w-full inset-0 bg-gradient-to-br from-blue-900 to-cyan-700 opacity-50" />
+      <div className="absolute w-full inset-0 bg-gradient-to-br from-purple-900 via-pink-800 to-yellow-700  opacity-50" />
       <CardHeader className="relative z-10">
         <CardTitle className="text-2xl font-semibold text-center text-white">Receive Feedback</CardTitle>
       </CardHeader>
